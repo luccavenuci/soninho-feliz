@@ -1,0 +1,16 @@
+{
+  "name": "soninho-feliz",
+  "version": "1.0.0",
+  "description": "Skill Alexa que reproduz audio contínuo de piano e chuva para ajudar bebês e crianças a dormir tranquilos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.19.0",
+    "aws-sdk": "^2.326.0"
+  }
+}
